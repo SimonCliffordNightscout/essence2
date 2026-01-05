@@ -2,7 +2,7 @@
     "version": 1,
     "themes": {
         "essence2": {
-            "name": "Essence",
+            "name": "essence2",
             "repo": "https://github.com/SimonCliffordNightscout/essence2",
             "zip": "https://github.com/SimonCliffordNightscout/essence2/archive/master.zip",
             "summary": "Adaptation of the original WonderCMS essence theme.",
